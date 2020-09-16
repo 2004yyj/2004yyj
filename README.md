@@ -1,4 +1,6 @@
-### Hi there 👋
+### 대구소프트웨어고등학교 1학년 양윤재 👋
+
+[![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **2004yyj/2004yyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
