@@ -1,6 +1,7 @@
 ### 대구소프트웨어고등학교 1학년 양윤재 👋
 
-[![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj)](https://github.com/anuraghazra/github-readme-stats)
+[![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj)](https://github.com/anuraghazra/github-readme-stats
+
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007922641078)](https://www.facebook.com/profile.php?id=100007922641078)
 	
 
