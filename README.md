@@ -1,4 +1,4 @@
-### Hello, I'm Junior Android Developer! 👋
+### Hello, I'm Junior Application Developer! 👋
 
 [![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj)](https://github.com/anuraghazra/github-readme-stats)
 
