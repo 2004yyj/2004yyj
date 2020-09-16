@@ -1,4 +1,4 @@
-### 대구소프트웨어고등학교 1학년 양윤재 👋
+### Hello, I'm Junior Android Developer! 👋
 
 [![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj)](https://github.com/anuraghazra/github-readme-stats)
 
