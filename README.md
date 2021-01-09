@@ -7,6 +7,7 @@
 # 🌱 I’m currently learning ...
 * Java, Kotlin
 * MVC, MVVM
+* RxJava2, Android Jetpack
 
 <!--
 **2004yyj/2004yyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
