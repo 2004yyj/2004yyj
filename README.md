@@ -4,7 +4,7 @@
 
 # 👋 Hi There
 * I Live In Daegu.
-* I'm a junior high school developer attending [DGSW](http://www.dgsw.hs.kr/).
+* I'm a junior developer attending [DGSW](http://www.dgsw.hs.kr/).
 
 # 📊 Stats
 
