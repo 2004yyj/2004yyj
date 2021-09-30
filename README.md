@@ -10,6 +10,7 @@
 
 [![2004yyj's github stats](https://github-readme-stats.vercel.app/api?username=2004yyj&count_private=true&show_icons=true&hide_border=true&theme=dark&border_color=#FFFFFF)](https://github.com/2004yyj)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2004yyj&show_icons=true&theme=dark&hide_border=true&layout=compact)](https://github.com/2004yyj)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=2004yyj&)
 
 # 👩‍💻 저는 이런걸 할 수 있어요!
 
