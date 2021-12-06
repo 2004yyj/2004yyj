@@ -1,4 +1,5 @@
-# 2004yyj [![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/2004yyj)](https://github.com/2004yyj)
+# 2004yyj ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white?url=https://brass-elephant-2fa.notion.site/ccd45b25907f487d86d0a11e56a2855c?p=89e3dc3275f4466c8ac5420bbd7e0626)
+[![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/2004yyj)](https://github.com/2004yyj)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=2004yyj&fontSize=70&animation=fadeIn&fontAlignY=40)
 
